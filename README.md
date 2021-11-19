@@ -1,2 +1,2 @@
 # PruebaConflictos
-holaaaaaaaaaaaaaaaaaaaa
+hola soy A
